@@ -1,0 +1,13 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/.history
+/RUNNING_PID
+/conf/application.conf
+activator
+activator.bat
+activator-launch-1.2.12.jar
